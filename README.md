@@ -1,4 +1,4 @@
-## TaskMaster - Lambda with Dynamo
+### TaskMaster - Lambda with Dynamo
 - Use lambda to handle database changes in real time
 
 ### Feature Tasks
@@ -17,4 +17,3 @@
 - PUT /tasks/{id}/assign/{assignee}
 
 [API Gateway](https://30z7g0ekcb.execute-api.us-west-2.amazonaws.com/dev/tasks)
-
